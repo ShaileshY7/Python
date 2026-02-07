@@ -19,6 +19,21 @@
 
 #escape sequences---------------------
 
-print("Hello world")
-print("Hello\nworld")
-print("Hello\tworld")
+# print("Hello world")
+# print("Hello\nworld")
+# print("Hello\tworld")
+# 
+
+# count number of each wordin string
+
+# str="shailesh"
+
+# dict={}
+
+# for ch in str:
+#     if ch in dict:
+#         dict[ch]+=1
+#     else:
+#         dict[ch]=1
+
+# print(dict)
